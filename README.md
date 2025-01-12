@@ -3,10 +3,9 @@ LearnHIGH is a comprehensive learning platform that fosters academic excellence 
 
 Demo Video URL: [https://youtu.be/Sz30hnZ7t0k?si=5flwmI74sRkAyxGf](https://www.loom.com/share/218cae94e4c64830bfdd0c8286e8882 c?sid=a2dba5b0-4b86-42ec-b54f-2e06e45b5cc5)
 
-GitHub Repository URL: [https://github.com/ajay-arh/Photography-Portfolio-Website](https://github.com/ajay-arh/photography_deployment)
+GitHub Repository URL: (https://github.com/ajay-arh/photography_deployment)
 
-
-Project Demo URL: https://befashion1.z23.web.core.windows.net/
+Project Demo URL: https://ajay-arh.github.io/photography_deployment/
 
 Document URL:- https://docs.google.com/document/d/12sS0y6NK7Ii42F1Fluw4mMdVFjmsHDCM/edit?usp=sharing&ouid=110169850793318225592&rtpof=true&sd=true
 
@@ -14,9 +13,9 @@ Industry: Lifestyle
 
 Roles and responsibilities
 
-Ajay Gajji (project management): Manages the web development project.
+Ajay Gajji (Deployment): Deployment and maintenance of project infrastructure.
 
-Shravan (Deployment): Deployment and maintenance of project infrastructure.
+Shravan (project management): Manages the web development project.
 
 Sathwika (Documentation): Responsible for managing the documentation process.
 
